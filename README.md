@@ -37,16 +37,12 @@ The goal was to build a responsive and interactive user interface while closely 
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/hardik-cs2837/hardikmanchanda2007-gmail.com
 ```
 
 Open the project folder and launch `index.html` in your browser.
 
 No additional setup or dependencies are required.
-
-## Screenshots
-
-Add screenshots here.
 
 ## Live Demo
 
