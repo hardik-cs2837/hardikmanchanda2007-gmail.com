@@ -49,7 +49,7 @@ No additional setup or dependencies are required.
 Deployment link:
 
 ```text
-<deployment-link>
+https://hardikmanchanda2007.vercel.app/
 ```
 
 ## Notes
